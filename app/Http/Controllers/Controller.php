@@ -18,6 +18,10 @@ class Controller extends BaseController
         return view('register');
     }
     
+    public function policy(){
+        return view('policy');
+    }
+    
     public function stripePost(Request $request){
         Stripe\Stripe::setApiKey(env('STRIPE_SECRET'));
         $customer = Stripe\Customer::create(array(

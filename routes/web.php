@@ -20,5 +20,6 @@ Route::get('/', function () {
 
 Route::get('/register',[Controller::class,'loadRegister']);
 Route::post('/stripe',[Controller::class,'stripePost'])->name('stripe.post');
+Route::get('/policy',[Controller::class,'policy']);
 
 
