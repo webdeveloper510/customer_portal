@@ -1,0 +1,3 @@
+[10-Feb-2023 19:13:42 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wellspri/public_html/customer-portal/app/Http/Controllers/Controller.php on line 24
+[10-Feb-2023 19:13:57 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wellspri/public_html/customer-portal/app/Http/Controllers/Controller.php on line 24
+[10-Feb-2023 19:14:56 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/wellspri/public_html/customer-portal/app/Http/Controllers/Controller.php on line 24
